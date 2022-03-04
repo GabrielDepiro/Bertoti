@@ -1,2 +1,8 @@
 Atividade 1 
-Requisitos (Funcionais e Não Funcionais)
+
+Requisitos - Necessidade do Cliente
+  Funcionais - Ações/Funcionalidades (verbo)
+  
+  
+
+  Não Funcionais - Qualidade (Adjetivo)
