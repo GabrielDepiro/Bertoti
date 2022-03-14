@@ -1,4 +1,4 @@
-   # Ciclo de vida do Desenvolvimento de Software
+# Ciclo de vida do Desenvolvimento de Software
 
 # Requisitos - Necessidade do Cliente
 
