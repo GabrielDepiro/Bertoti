@@ -1,16 +1,18 @@
 # Ciclo de vida do Desenvolvimento de Software
 
-# Atividade 1 - Requisitos - Necessidade do Cliente
+# Requisitos - Necessidade do Cliente
 
-  Funcionais - Ações/Funcionalidades (verbo) - Story Cards
+    Funcionais - Ações/Funcionalidades (verbo) - Story Cards
   
   
   
 
-  Não Funcionais - Qualidade (Adjetivo)
+    Não Funcionais - Qualidade (Adjetivo)
   
   
   
-  # Atividade 2 - Diagrama de Classe
+  # Diagrama de Classe
+  # Projeto
+    Classes
   
 
