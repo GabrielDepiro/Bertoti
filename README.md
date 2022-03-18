@@ -15,7 +15,7 @@
   
   # Diagrama de Classe - Projeto
    Classes
-    <img src="https://github.com/GabrielDepiro/Bertoti/blob/main/Engenharia%20de%20Software/Digrama%20de%20Classe.png">
+    <img src="https://github.com/GabrielDepiro/Bertoti/blob/main/Engenharia%20de%20Software/Diagrama%20de%20Classe.png">
   
   # Desenvolvimento
     Classe + Codigo 
