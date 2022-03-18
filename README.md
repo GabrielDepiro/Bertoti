@@ -15,7 +15,7 @@
   
   # Diagrama de Classe - Projeto
     Classes
-    <img src="https://github.com/GabrielDepiro/Bertoti/blob/main/Engenharia%20de%20Software/Captura%20de%20Tela%20(2).png">
+ <img src="https://github.com/GabrielDepiro/Bertoti/blob/main/Engenharia%20de%20Software/Captura%20de%20Tela%20(2).png">
   
   # Desenvolvimento
     Classe + Codigo 
