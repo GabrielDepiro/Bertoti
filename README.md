@@ -1,3 +1,4 @@
+# Gabriel da Costa Evangelista D Epiro - RA -> 
 # Ciclo de vida do Desenvolvimento de Software
 
 # Requisitos - Necessidade do Cliente
@@ -7,7 +8,7 @@
   
   
 
-    Não Funcionais - Qualidade (Adjetivo)
+    Não Funcionais (Usabilidade - Heurísticas) - Qualidade (Adjetivo)
   
   
   
