@@ -18,7 +18,8 @@
    <img src="https://github.com/GabrielDepiro/Bertoti/blob/main/Engenharia%20de%20Software/Diagrama%20de%20Classe.png">
   
   # Desenvolvimento
-    Classe + Codigo 
+    Classe + Codigo
+    Aluno
    <img src="https://github.com/GabrielDepiro/Bertoti/blob/main/Engenharia%20de%20Software/Codigo%20Aluno.png">
   
 
