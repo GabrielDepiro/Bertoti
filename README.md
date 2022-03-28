@@ -1,11 +1,11 @@
-# Gabriel da Costa Evangelista D Epiro - RA ->  1460282123061
+# Gabriel da Costa Evangelista D Epiro     RA -> 1460282123061
 ## Ciclo de vida do Desenvolvimento de Software
 
 ## Requisitos - Necessidade do Cliente
 
     Funcionais - Ações/Funcionalidades (verbo) - Story Cards
   
-  
+  <img src="https://github.com/GabrielDepiro/Bertoti/blob/main/Engenharia%20de%20Software/Requisitos%20Funcionais.jpg">
   
 
     Não Funcionais (Usabilidade - Heurísticas) - Qualidade (Adjetivo)
