@@ -25,6 +25,8 @@
     Disciplina
    <img src ="https://github.com/GabrielDepiro/Bertoti/blob/main/Engenharia%20de%20Software/Codigo%20Disciplina.png">
   
+    Plataforma
+   <img src ="https://github.com/GabrielDepiro/Bertoti/blob/main/Engenharia%20de%20Software/C%C3%B3digo%20Plataforma.png">
 
 [Engenharia de Software.docx](https://github.com/GabrielDepiro/Bertoti/files/8249011/Engenharia.de.Software.docx)
 
