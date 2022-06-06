@@ -7,6 +7,8 @@
   
   <img src="https://github.com/GabrielDepiro/Bertoti/blob/main/Engenharia%20de%20Software/Requisitos%20Funcionais.jpg">
   
+    Story Card
+  <img src ="https://github.com/GabrielDepiro/Bertoti/blob/main/Story%20Card.png">
 
     Não Funcionais (Usabilidade - Heurísticas) - Qualidade (Adjetivo)
   
