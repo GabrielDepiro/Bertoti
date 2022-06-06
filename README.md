@@ -3,7 +3,7 @@
 
 ## Requisitos - Necessidade do Cliente
 
-    Funcionais - Ações/Funcionalidades (verbo) - Story Cards
+    Funcionais - Ações/Funcionalidades (verbo)
   
   <img src="https://github.com/GabrielDepiro/Bertoti/blob/main/Engenharia%20de%20Software/Requisitos%20Funcionais.jpg">
   
